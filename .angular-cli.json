@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "ej2-angular4-richtexteditor"
+    "name": "ej2-angular5-richtexteditor"
   },
   "apps": [
     {
